@@ -10,7 +10,7 @@ const RedButton = styled.button`
 const Hello = () => {
   return (
     <div>
-      <Hello />
+      <RedButton />
     </div>
   );
 };
